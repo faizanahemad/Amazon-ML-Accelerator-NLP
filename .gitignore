@@ -102,3 +102,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.DS_Store
+.idea/
+best-model.pt
+fastText-0.9.1/*
+final-model.pt
+flair_data/*
+loss.tsv
+test.tsv
+v0.9.1.zip
+weights.txt
+wiki-news-300d-1M-subword.vec
+wiki-news-300d-1M-subword.vec.zip
